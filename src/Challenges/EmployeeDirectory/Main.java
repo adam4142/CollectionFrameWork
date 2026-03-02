@@ -12,8 +12,7 @@ public class Main {
         employeeDirectory.put(103, "Kevin");
         employeeDirectory.put(105, "Alan");
         employeeDirectory.put(106, "Dev");
-        employeeDirectory.put(1018, "Adam");
-        employeeDirectory.put(1028, "Eve");
+
 
 
         System.out.println(employeeDirectory.get(101));
